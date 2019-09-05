@@ -1,5 +1,5 @@
 # Puzzle_Kit
-Repository for game made with Creator Kit: Puzzle from Unity and VRTK.
+Repository for game made with Creator Kit: Puzzle from Unity and VRTK. https://youtu.be/eaXCYM2_rBU
 
 Creator Kit: Puzzle Tutorial https://learn.unity.com/project/creator-kit-puzzle
 
