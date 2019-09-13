@@ -10,3 +10,5 @@ Oculus integration 1.38
 Unity 2019.2.0f1
 
 Apk was built for Oculus Quest
+
+SideQuest Link: https://xpan.cc/a-245
