@@ -11,4 +11,4 @@ Unity 2019.2.0f1
 
 Apk was built for Oculus Quest
 
-SideQuest Link: https://xpan.cc/a-245
+SideQuest Link: https://sdq.st/a-245
